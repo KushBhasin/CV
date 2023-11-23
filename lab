@@ -1,3 +1,10 @@
 1. Feature Extraction
 2. Feature Matching
 3. Refine feature detection for Image Segmentation
+4. human guided control point selection for image alignment
+5. Compare the performance of different classification models
+6. Bag of features in enhancing image classification performance
+7. Object Detection algos with ML
+8. Optical flow analysis into object tracking
+9. models for real time object tracking taks
+10. video stabilization tasks
